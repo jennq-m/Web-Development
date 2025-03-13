@@ -7,7 +7,8 @@ This repository contains all my activities for **COMP 016 - Web Development** in
 
 ## 📂 Activities  
 
-### **Week 1-2: Introduction to HTML**  
-✅ Activity #1 – HTML Text and Images
-✅ Activity #2 – HTML Tags
+### **Week 1-2: Introduction to HTML**   
+- ✅ Activity #1 – HTML Text and Images  
+- ✅ Activity #2 – HTML Tags  
+
 
